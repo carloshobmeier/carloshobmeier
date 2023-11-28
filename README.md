@@ -5,7 +5,7 @@
 
 <section>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carloshobmeier&color=green&style=for-the-badge" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=carloshobmeier&color=0095db&style=for-the-badge" alt="Profile views" /> </p>
 
 ## 💻 About:
 I'm in love with technology, and learning non-stop.
