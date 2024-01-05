@@ -34,26 +34,27 @@ I'm in love with technology, and learning non-stop.
 
 ## 🖥️ My Technology Stack:
 <div style="display: inline_block"><br/>
-    <img align="center" alt="html5"src="https://img.shields.io/badge/HTML5-ff3030?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="css"src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="javascript"src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img align="center" alt="python"src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-    <img align="center" alt="java" src="https://img.shields.io/badge/Java-e52423?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-1d4a65?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-    <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-    <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    <img align="center" alt="trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
-    <img align="center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-    <img align="center" alt="powerbi" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
-    <img align="center" alt="markdown" src="https://img.shields.io/badge/Markdown-333?style=for-the-badge&logo=markdown&logoColor=white" />
-    <img align="center" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-    <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    <img align="center" alt="debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
-    <img align="center" alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-    <img align="center" alt="mint" src="https://img.shields.io/badge/Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
-    <img align="center" alt="photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
-    <img align="center" alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
+    <img style="margin-top:4px;" align="center" alt="html5" height="30px" src="https://img.shields.io/badge/HTML5-ff3030?style=for-the-badge&logo=html5&logoColor=white" />
+    <img style="margin-top:4px;" align="center" alt="css" height="30px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img style="margin-top:4px;" align="center" alt="javascript" height="30px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img style="margin-top:4px;" align="center" alt="python" height="30px" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+    <img style="margin-top:4px;" align="center" alt="java" height="30px" src="https://img.shields.io/badge/Java-e52423?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img style="margin-top:4px;" align="center" alt="mysql" height="30px" src="https://img.shields.io/badge/MySQL-1d4a65?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img style="margin-top:4px;" align="center" alt="php" height="30px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+    <img style="margin-top:4px;" align="center" alt="git" height="30px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+    <img style="margin-top:4px;" align="center" alt="github" height="30px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img style="margin-top:4px;" align="center" alt="trello" height="30px" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+    <img style="margin-top:4px;" align="center" alt="excel" height="30px" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+    <img style="margin-top:4px;" align="center" alt="powerbi" height="30px" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
+    <img style="margin-top:4px;" align="center" alt="markdown" height="30px" src="https://img.shields.io/badge/Markdown-333?style=for-the-badge&logo=markdown&logoColor=white" />
+    <img style="margin-top:4px;" align="center" alt="windows" height="30px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+    <img style="margin-top:4px;" align="center" alt="linux" height="30px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img style="margin-top:4px;" align="center" alt="debian" height="30px" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+    <img style="margin-top:4px;" align="center" alt="ubuntu" height="30px" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+    <img style="margin-top:4px;" align="center" alt="mint" height="30px" src="https://img.shields.io/badge/Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
+    <img style="margin-top:4px;" align="center" alt="movavi" height="30px" src="https://raw.githubusercontent.com/carloshobmeier/Assets/main/Badges/movavi_logo.svg"  />
+    <img style="margin-top:4px;" align="center" alt="photoshop" height="30px" src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
+    <img style="margin-top:4px;" align="center" alt="canva" height="30px" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
 </div>
 
 ***
