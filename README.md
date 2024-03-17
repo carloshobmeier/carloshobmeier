@@ -36,6 +36,7 @@ I'm in love with technology, and learning non-stop.
 <div style="display: inline_block"><br/>
     <img style="margin-top:4px;" align="center" alt="html5" height="30px" src="https://img.shields.io/badge/HTML5-ff3030?style=for-the-badge&logo=html5&logoColor=white" />
     <img style="margin-top:4px;" align="center" alt="css" height="30px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img align="center" alt="bootstrap"src="https://img.shields.io/badge/Bootstrap-7d12f9?style=for-the-badge&logo=Bootstrap&logoColor=white" />
     <img style="margin-top:4px;" align="center" alt="javascript" height="30px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img style="margin-top:4px;" align="center" alt="python" height="30px" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
     <img style="margin-top:4px;" align="center" alt="java" height="30px" src="https://img.shields.io/badge/Java-e52423?style=for-the-badge&logo=openjdk&logoColor=white" />
