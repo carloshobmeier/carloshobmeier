@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&text=CARLOS+HOBMEIER&fontColor=fff&fontSize=60&color=0095db&height=134&section=header"/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=2800&lines=Hi,+nice+to+meet+you!👋🏻;My+name+is+Carlos;I'm+from+Brazil;I'm+a+programmer+with+1%2B+year+of+experience;Welcome+to+my+profile!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=2800&lines=Hi,+nice+to+meet+you!👋🏻;My+name+is+Carlos;I'm+from+Brazil;I'm+a+programmer+with+2+years+of+experience;Welcome+to+my+profile!;" />
 </h1>
 
 <section>
