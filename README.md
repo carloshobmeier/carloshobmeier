@@ -80,6 +80,8 @@ I'm in love with technology, and learning non-stop.
 <p align="left">
 <img align="center" width="500px" alt="stats"src="https://github-readme-stats.vercel.app/api?username=carloshobmeier&show_icons=true&rank_icon=github&hide=prs,issues&theme" />
 <img align="center" width="500px" alt="languages"src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloshobmeier&layout=compact&show_icons=true" />
+<img align="center" width="500px" alt="languages"src="https://streak-stats.demolab.com/?user=carloshobmeier" />
+
 
 
 ***
