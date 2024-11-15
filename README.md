@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&text=CARLOS+HOBMEIER&fontColor=fff&fontSize=60&color=0095db&height=134&section=header"/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=2800&lines=Hi,+nice+to+meet+you!👋🏻;My+name+is+Carlos;I'm+from+Brazil;I'm+a+programmer+with+1%2B+year+of+experience;Welcome+to+my+profile!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=2800&lines=Hi,+nice+to+meet+you!👋🏻;My+name+is+Carlos;I'm+from+Brazil;I'm+a+programmer+with+2%2B+year+of+experience;Welcome+to+my+profile!;" />
 </h1>
 
 <section>
@@ -38,6 +38,7 @@ I'm in love with technology, and learning non-stop.
     <img style="margin-top:4px;" align="center" alt="css" height="30px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img align="center" alt="bootstrap"src="https://img.shields.io/badge/Bootstrap-7d12f9?style=for-the-badge&logo=Bootstrap&logoColor=white" />
     <img style="margin-top:4px;" align="center" alt="javascript" height="30px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img style="margin-top:4px;" align="center" alt="typescript" height="30px" src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=black"/>
     <img style="margin-top:4px;" align="center" alt="python" height="30px" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
     <img style="margin-top:4px;" align="center" alt="java" height="30px" src="https://img.shields.io/badge/Java-e52423?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img style="margin-top:4px;" align="center" alt="kotlin" height="30px" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
@@ -90,6 +91,7 @@ I'm in love with technology, and learning non-stop.
 <p align="left">
 <img align="center" width="500px" alt="stats"src="https://github-readme-stats.vercel.app/api?username=carloshobmeier&show_icons=true&rank_icon=github&hide=prs,issues&theme" />
 <img align="center" width="500px" alt="languages"src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloshobmeier&layout=compact&show_icons=true" />
+<img align="center" width="500px" alt="languages"src="https://streak-stats.demolab.com/?user=carloshobmeier" />
 
 
 ***
